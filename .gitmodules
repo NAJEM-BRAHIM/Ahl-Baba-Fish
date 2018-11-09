@@ -1,0 +1,4 @@
+[submodule "saidhij/git"]
+	path = saidhij/git
+	url = git@github.com:saidhij/git.git
+	branch = 11.0
