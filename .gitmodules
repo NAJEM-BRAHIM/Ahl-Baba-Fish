@@ -2,3 +2,8 @@
 	path = saidhij/git
 	url = git@github.com:saidhij/git.git
 	branch = 11.0
+
+[submodule "saidhij/rhfree"]
+	path = saidhij/rhfree
+	url = git@github.com:saidhij/rhfree.git
+	branch = 11.0
